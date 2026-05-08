@@ -1,0 +1,6 @@
+{
+  "name": "Tử Vi 360",
+  "description": "Ứng dụng xem bói tổng hợp với giao diện hiện đại, huyền bí. Bao gồm xem tử vi, tướng mặt, chỉ tay và thông điệp hàng ngày.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
